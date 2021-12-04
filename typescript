@@ -1,0 +1,29 @@
+Script started on 2021-12-04 11:36:40-0600
+[1m[7m%[27m[1m[0m                                                                                                                                    ]2;duleygrafix@DESKTOP-JANDNJA:~/workspace/softwareChasers_iceCream]1;..sers_iceCream[0m[27m[24m[J[01;32m➜  [36msoftwareChasers_iceCream[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hsscripts[?1l>[?2004l
+]2;scripts]1;scripts[1m[7m%[27m[1m[0m                                                                                                                                    ]2;duleygrafix@DESKTOP-JANDNJA:~/workspace/softwareChasers_iceCream/scripts]1;..Cream/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004httouch main.ks  js[?1l>[?2004l
+]2;touch main.js]1;touch[1m[7m%[27m[1m[0m                                                                                                                                    ]2;duleygrafix@DESKTOP-JANDNJA:~/workspace/softwareChasers_iceCream/scripts]1;..Cream/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls --color=tty]1;lsmain.js
+[1m[7m%[27m[1m[0m                                                                                                                                    ]2;duleygrafix@DESKTOP-JANDNJA:~/workspace/softwareChasers_iceCream/scripts]1;..Cream/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hccd ..[?1l>[?2004l
+]2;cd ..]1;cd[1m[7m%[27m[1m[0m                                                                                                                                    ]2;duleygrafix@DESKTOP-JANDNJA:~/workspace/softwareChasers_iceCream]1;..sers_iceCream[0m[27m[24m[J[01;32m➜  [36msoftwareChasers_iceCream[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls --color=tty]1;lsREADME.md  index.html  [0m[01;34mscripts[0m  [01;34mstyles[0m  typescript
+[1m[7m%[27m[1m[0m                                                                                                                                    ]2;duleygrafix@DESKTOP-JANDNJA:~/workspace/softwareChasers_iceCream]1;..sers_iceCream[0m[27m[24m[J[01;32m➜  [36msoftwareChasers_iceCream[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hsstyles[?1l>[?2004l
+]2;styles]1;styles[1m[7m%[27m[1m[0m                                                                                                                                    ]2;duleygrafix@DESKTOP-JANDNJA:~/workspace/softwareChasers_iceCream/styles]1;..eCream/styles[0m[27m[24m[J[01;32m➜  [36mstyles[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004httouch main.css[?1l>[?2004l
+]2;touch main.css]1;touch[1m[7m%[27m[1m[0m                                                                                                                                    ]2;duleygrafix@DESKTOP-JANDNJA:~/workspace/softwareChasers_iceCream/styles]1;..eCream/styles[0m[27m[24m[J[01;32m➜  [36mstyles[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hccd ...[?1l>[?2004l
+]2;cd ../..]1;cd[1m[7m%[27m[1m[0m                                                                                                                                    ]2;duleygrafix@DESKTOP-JANDNJA:~/workspace]1;~/workspace[0m[27m[24m[J[01;32m➜  [36mworkspace[00m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls --color=tty]1;lsREADME.md                [0m[01;34mcoffee_houses[0m                            [01;34mflowers[0m           [01;34mmartins_aqua_2[0m  [01;34msoftwareChasers_iceCream[0m
+[01;34mbrewed-awakenings[0m        [01;34mcongress_dist[0m                            [01;34mkneel-diamonds[0m    [01;34mnss_eventList[0m   [01;34mtoy-objects[0m
+[01;34mchapter3_self_assesment[0m  [01;34mdog-walking[0m                              [01;34mliquor_store[0m      [01;34mpractice[0m
+[01;34mclass_practice[0m           [01;34mfirst-magic-trick-block-warrior-thundry[0m  [01;34mmartins-aquarium[0m  [01;34mruntimeTerror[0m
+[1m[7m%[27m[1m[0m                                                                                                                                    ]2;duleygrafix@DESKTOP-JANDNJA:~/workspace]1;~/workspace[0m[27m[24m[J[01;32m➜  [36mworkspace[00m [K[?1h=[?2004hssoftware
+[J[0mSoftwareDistribution       [J[01;34msoftwareChasers_iceCream[0m/[J[A[0m[27m[24m[13Csoftware[Ksof   Chasers_iceCream[1m/[0m[0m [?1l>[?2004l
+[J]2;softwareChasers_iceCream]1;softwareChasers_iceCream[1m[7m%[27m[1m[0m                                                                                                                                    ]2;duleygrafix@DESKTOP-JANDNJA:~/workspace/softwareChasers_iceCream]1;..sers_iceCream[0m[27m[24m[J[01;32m➜  [36msoftwareChasers_iceCream[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hllsl  ggit status[?1l>[?2004l
+]2;git status]1;gitOn branch main
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31mindex.html[m
+	[31mscripts/[m
+	[31mstyles/[m
+	[31mtypescript[m
+
+nothing added to commit but untr
